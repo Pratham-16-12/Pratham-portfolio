@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="178.0" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="85.1 123.6 255.0 178.0" width="255.0" zoomAndPan="magnify">
+ <g id="surface1">
+  <g id="change1_1"><path d="m328.19 301.6h-231.18c-6.58 0-11.912-5.33-11.912-11.91v-154.18c0-6.58 5.332-11.91 11.91-11.91h231.18c6.58 0 11.91 5.33 11.91 11.91v154.18c0 6.58-5.33 11.91-11.91 11.91" fill="#98b7e4"/></g>
+  <g id="change2_1"><path d="m340.1 164.61v-29.1c0-6.58-5.33-11.91-11.91-11.91h-231.18c-6.58 0-11.912 5.33-11.912 11.91v29.1h255" fill="#496592"/></g>
+  <g id="change3_1"><path d="m107.1 145.1c0 3.04-2.46 5.5-5.5 5.5-3.038 0-5.502-2.46-5.502-5.5s2.464-5.5 5.502-5.5c3.04 0 5.5 2.46 5.5 5.5" fill="#f8dd4e"/></g>
+  <g id="change4_1"><path d="m125.1 145.1c0 3.04-2.46 5.5-5.5 5.5s-5.5-2.46-5.5-5.5 2.46-5.5 5.5-5.5 5.5 2.46 5.5 5.5" fill="#6ec399"/></g>
+  <g id="change5_1"><path d="m145.1 145.1c0 3.04-2.46 5.5-5.5 5.5s-5.5-2.46-5.5-5.5 2.46-5.5 5.5-5.5 5.5 2.46 5.5 5.5" fill="#ed547c"/></g>
+  <path d="m1071 1496h2060" fill="none" stroke="#496592" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="50" transform="matrix(.1 0 0 -.1 0 425.2)"/>
+  <g id="change6_1"><path d="m244.1 220.6c0 20.99-17.01 38-38 38s-38-17.01-38-38 17.01-38 38-38 38 17.01 38 38" fill="#fff"/></g>
+  <g id="change5_2"><path d="m234.97 221.09l-22.93 13.24-22.94 13.24v-52.97l22.94 13.24 22.93 13.25" fill="#ed547c"/></g>
+  <g id="change5_3"><path d="m122.1 285.6c-1.65 0-3-1.35-3-3v-12c0-1.65 1.35-3 3-3s3 1.35 3 3v12c0 1.65-1.35 3-3 3" fill="#ed547c"/></g>
+ </g>
+</svg>
